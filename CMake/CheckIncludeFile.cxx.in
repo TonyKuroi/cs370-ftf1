@@ -1,0 +1,5 @@
+#include <${CHECK_INCLUDE_FILE_VAR}>
+
+int main() {
+    return 0;
+}

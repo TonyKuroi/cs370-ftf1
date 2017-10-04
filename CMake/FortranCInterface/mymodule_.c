@@ -1,0 +1,2 @@
+void mymodule_(void) {
+}
